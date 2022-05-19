@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aysha-thasneem-am
+- 👀 I’m interested in learning new things, auditing, and designing
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on projects that use Python programming language
+- 📫 Reach me via: ayshathasneemam@gmail.com
