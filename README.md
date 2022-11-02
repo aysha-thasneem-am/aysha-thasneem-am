@@ -6,3 +6,4 @@
 📫 Reach me via: ayshathasneemam@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aysha-thasneem-am&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=aysha-thasneem-am&title=Followers
