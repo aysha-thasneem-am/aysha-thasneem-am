@@ -5,4 +5,4 @@
 💞️ I’m looking to collaborate on Python & Android projects. 
 📫 Reach me via: ayshathasneemam@gmail.com
 
-https://github-profile-trophy.vercel.app/?username=aysha-thasneem-am&row=2&column=3
+[![trophy]https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai]
